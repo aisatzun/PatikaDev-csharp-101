@@ -1,0 +1,15 @@
+C:\Users\ugur\Desktop\PatikaDev-csharp-101\operators\bin\Debug\net6.0\operators.exe
+C:\Users\ugur\Desktop\PatikaDev-csharp-101\operators\bin\Debug\net6.0\operators.deps.json
+C:\Users\ugur\Desktop\PatikaDev-csharp-101\operators\bin\Debug\net6.0\operators.runtimeconfig.json
+C:\Users\ugur\Desktop\PatikaDev-csharp-101\operators\bin\Debug\net6.0\operators.dll
+C:\Users\ugur\Desktop\PatikaDev-csharp-101\operators\bin\Debug\net6.0\operators.pdb
+C:\Users\ugur\Desktop\PatikaDev-csharp-101\operators\obj\Debug\net6.0\operators.csproj.AssemblyReference.cache
+C:\Users\ugur\Desktop\PatikaDev-csharp-101\operators\obj\Debug\net6.0\operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ugur\Desktop\PatikaDev-csharp-101\operators\obj\Debug\net6.0\operators.AssemblyInfoInputs.cache
+C:\Users\ugur\Desktop\PatikaDev-csharp-101\operators\obj\Debug\net6.0\operators.AssemblyInfo.cs
+C:\Users\ugur\Desktop\PatikaDev-csharp-101\operators\obj\Debug\net6.0\operators.csproj.CoreCompileInputs.cache
+C:\Users\ugur\Desktop\PatikaDev-csharp-101\operators\obj\Debug\net6.0\operators.dll
+C:\Users\ugur\Desktop\PatikaDev-csharp-101\operators\obj\Debug\net6.0\refint\operators.dll
+C:\Users\ugur\Desktop\PatikaDev-csharp-101\operators\obj\Debug\net6.0\operators.pdb
+C:\Users\ugur\Desktop\PatikaDev-csharp-101\operators\obj\Debug\net6.0\operators.genruntimeconfig.cache
+C:\Users\ugur\Desktop\PatikaDev-csharp-101\operators\obj\Debug\net6.0\ref\operators.dll
