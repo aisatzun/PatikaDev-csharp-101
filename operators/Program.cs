@@ -51,6 +51,7 @@ Console.WriteLine(sonuc);
 sonuc=a!=b;
 Console.WriteLine(sonuc); 
 
+
 Console.WriteLine("****Aritmetik Operatörler"); 
 
 int s1 = 10;
