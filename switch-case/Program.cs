@@ -24,6 +24,7 @@ int month=DateTime.Now.Month;
 //         break;
 // }
 // Birden fazla koşulda aynı ifadenin çalışması gereken durumlarda switch-case karar yapıları kullanılır.
+
 switch (month)
     {
         case 12:
