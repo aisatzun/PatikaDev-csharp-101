@@ -36,3 +36,46 @@ foreach ( var sayi in sayiDizisi)
 
     Console.WriteLine("Ortalama :"+ toplam/diziUzunluk);
 }
+
+//---  hackerrank
+//  class Result
+// {    /*
+//      * Complete the 'plusMinus' function below.
+//      *
+//      * The function accepts INTEGER_ARRAY arr as parameter.
+//      */
+
+//     public static void plusMinus(List<int> arr)
+//     {
+//      double positiveCount = 0, negativeCount = 0, zeroCount = 0;
+//         foreach (var item in arr)
+//         {
+//          if (item < 0)
+//           {
+//              negativeCount++;
+//           }
+//          else if (item > 0)
+//           {
+//              positiveCount++;                   
+//           }
+//          else if(item==0)
+//           {
+//              zeroCount++;                 
+//           }
+//          }
+//              Console.WriteLine("{0:0.000000}", (positiveCount / arr.Count));
+//              Console.WriteLine("{0:0.000000}", (negativeCount / arr.Count));
+//              Console.WriteLine("{0:0.000000}", (zeroCount / arr.Count));
+//     }
+// }
+
+// class Solution
+// {    public static void Main(string[] args)
+//     {
+//         int n = Convert.ToInt32(Console.ReadLine().Trim());
+
+//         List<int> arr = Console.ReadLine().TrimEnd().Split(' ').ToList().Select(arrTemp => Convert.ToInt32(arrTemp)).ToList();
+
+//         Result.plusMinus(arr);
+//     }
+// }
